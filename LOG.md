@@ -4,6 +4,7 @@ Her oturumun sonunda bir satir ekle. En ustte en yeni oturum dursun.
 
 | Tarih | Sure | Mod | Modul/Gun | Ne yaptim | Nerede kaldim | Sonraki ilk adim | Acik soru |
 |---|---|---|---|---|---|---|---|
+06.09.2026| 3.5|Okuma|M0|1|Gerekli okumalari yaptim ve readings kodunu yazdim| vec kodunu yazmak | -|
 | | | | | | | | |
 
 ---
@@ -12,7 +13,7 @@ Her oturumun sonunda bir satir ekle. En ustte en yeni oturum dursun.
 
 | Modul | Butce (sa) | Gercek (sa) | Bitti kriteri gecti mi? | Not |
 |---|---|---|---|---|
-| M0 Ortam ve araclar | ~2 | | | |
+| M0 Ortam ve araclar | ~2 | 0.30 | Evet | NOT YOK |
 | M1 C tazeleme | ~8 | | | |
 | M2 Ozyineleme ve karmasiklik | ~10 | | | |
 | M3 Diziler ve Array ADT | ~11 | | | |
